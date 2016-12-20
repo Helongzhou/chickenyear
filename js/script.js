@@ -29,6 +29,6 @@ window.onload=function(){
         setTimeout(function(){
         	page2.setAttribute("class","page fadeOut");
         	page3.setAttribute("class","page fadeIn")
-        },5500);
+        },6000);
     },false)
 }
