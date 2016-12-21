@@ -21,7 +21,7 @@ html,body{height:100%;overflow:hidden;}
 /*page1*/
 #page1 {display:block;}
 #page1 > .bg{background:url("../images/p1_bg.jpg")no-repeat center center;background-size:100%;}
-#page1 > .p1-lantern{position:absolute;top:-4%;right:0;left:0;margin:auto;width:45vw;height:71.2vh;font-size:3.506rem;color:#FFF;background:url("../images/p1_lantern.png")no-repeat center bottom;background-size:100%;width:45vw;height:71.2vh;font-size:3.50rem;padding-top:31vh;text-align:center;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}
+#page1 > .p1-lantern{position:absolute;top:-3.4%;right:0;left:0;margin:auto;width:45vw;height:71.2vh;font-size:3.506rem;color:#FFF;background:url("../images/p1_lantern.png")no-repeat center bottom;background-size:100%;width:45vw;height:71.2vh;font-size:3.50rem;padding-top:31vh;text-align:center;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}
 #page1 > .p1-lantern:before{position:absolute;top:0;right:0;bottom:0;left:0;margin:auto;width:30vw;height:30vw;background:#D60B3B;opacity:.5;z-index:-1;content: "";border-radius:50%;-webkit-box-shadow:0 0 10vw 10vw #D60B3B;-moz-box-shadow:0 0 10vw 10vw #D60B3B;-ms-box-shadow:0 0 10vw 10vw #D60B3B;-o-box-shadow:0 0 10vw 10vw #D60B3B;box-shadow:0 0 10vw 10vw #D60B3B;
     animation: p1-lantern .5s infinite alternate;-webkit-animation: p1-lantern .5s infinite alternate;-moz-animation: p1-lantern .5s infinite alternate;-ms-animation: p1-lantern .5s infinite alternate; }
 @keyframes p1-lantern{
